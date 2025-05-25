@@ -415,5 +415,5 @@ client.on("message", message => {
 
 
 //** TOKEN **//
-client.login(`token-aqui`);
+client.login(`MTM3NTk4NDE1MDg1NDYzMTQ2Ng.GzIqFp.2wfdi7CwQLn8dbHLHw3vCB0BHAlFB-OzAerm1c`);
 //** TOKEN **//
